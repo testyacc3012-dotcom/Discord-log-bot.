@@ -39,3 +39,5 @@ Logs messages, members, moderation actions, server changes, and voice activity t
 ## Adding more events later
 
 Drop a new file in `events/` exporting an array of `{ name, once, execute }` objects — `index.js` picks it up automatically, same pattern as your Roblox bot's `commands/` folder. Full list of available event names: https://discord.js.org/docs/packages/discord.js/main/Events:Enum
+
+also here is the bot invite link https://discord.com/oauth2/authorize?client_id=1523638097148121259&permissions=8&integration_type=0&scope=bot+applications.commands
